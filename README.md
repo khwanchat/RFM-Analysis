@@ -2,6 +2,11 @@
 
 This project is an interactive Streamlit dashboard for segmenting customers using the **RFM (Recency, Frequency, Monetary)** model. It helps identify valuable customer groups for targeted CRM, retention, and loyalty campaigns.
 
+## 🚀 Live App
+
+Check out the deployed dashboard here:  
+👉 [RFM Segmentation Dashboard](https://rfm-analysis-jl6uatixhg4ohy4nclmtyc.streamlit.app/)
+
 ---
 
 ## 📌 Key Features
@@ -26,8 +31,7 @@ This project is an interactive Streamlit dashboard for segmenting customers usin
 - `requirements.txt` – Python dependencies
 
   📁 Data Source
-Dataset: Online Retail Listing on Kaggle
-https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing
+Dataset: Online Retail Listing on [Kaggle](https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing)
 Source: UCI Machine Learning Repository
 
 ---

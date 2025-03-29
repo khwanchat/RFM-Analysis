@@ -10,7 +10,7 @@ st.markdown("Analyze customer segments based on Recency, Frequency, and Monetary
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("rfm_scores.csv")
+    df = pd.read_csv("data/rfm_scores.csv")
     return df
 
 rfm = load_data()
